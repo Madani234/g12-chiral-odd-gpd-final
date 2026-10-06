@@ -1,0 +1,18 @@
+# Large data files
+*.root
+*.bos
+*.evt
+
+# Build products
+*.o
+*.so
+*.so.*
+*.exe
+*.d
+*.pcm
+build/
+lib/
+
+# Python
+__pycache__/
+*.pyc
